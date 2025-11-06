@@ -6,5 +6,7 @@ int main(void){
     foo();
     goo();
 
+    printf("--- The End ---");
+
     return 0;
 }
